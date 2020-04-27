@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1037314284676",
+    "firebase_url": "https://cab-ocar.firebaseio.com",
+    "project_id": "cab-ocar",
+    "storage_bucket": "cab-ocar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037314284676:android:61cda897e9d2511ea9b6d1",
+        "android_client_info": {
+          "package_name": "com.example.cab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037314284676-sd4cindtv4e74ah4o6rbdnqkb471ua34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cab",
+            "certificate_hash": "8827d223f0c7a87211c8ae53064d7f6b6a69bbbf"
+          }
+        },
+        {
+          "client_id": "1037314284676-5mckdc0rah0b1vf56ip4dqhlv76ht7dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzFih6F_6wlTOYWUcC_jrFudY6QJHxXsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037314284676-5mckdc0rah0b1vf56ip4dqhlv76ht7dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
